@@ -16,3 +16,5 @@ This notebook fine-tunes the Unsloth Gemma 3N E2B model using LoRA adapters on m
 - Install dependencies
 - Run training cells -GPU recommended-
 - Save and push adapters/model to Hugging Face
+
+## Model adapters on [Hugging Face](https://huggingface.co/huseyincavus/gemma-3n-e2b-finance-lora)
